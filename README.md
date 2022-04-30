@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Ken Dong
+#### Mobile Develoepr
+![Mobile Develoepr](https://www.joomlageeks.com/wp-content/uploads/2014/05/Joomla-Mobile-Development.png)
 
-I'm Ken from Canada, and I do content on Software Devlopment. I really enjoy learning languages and frameworks like iOS and Andorid, as well as work in Web. I also enjoy ui, ux and design in general. 
+I'm Ken from Canada, and I do content on Software Development. I really enjoy learning languages and frameworks like iOS and Android, as well as working on the Web.
+
+Skills: iOS / Andorid / Swift / Flutter
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yid164)](https://github.com/anuraghazra/github-readme-stats)
 
