@@ -10,8 +10,6 @@ I'm Ken from Canada, and I do content on Software Development. I really enjoy le
 * 📱 Andorid (Flutter, Dart)
 * 💻 Vue.js
 
-Skills: iOS / Andorid / Swift / Flutter
-
 <!-- - 🔭 I’m currently working on SalonScale Technology Inc 
 - 🌱 I’m currently learning Kotlin, React, and React Native 
 - ⚡ Fun fact: I am a coffee pot  -->
